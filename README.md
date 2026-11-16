@@ -4,7 +4,7 @@
 
 MSc Life Science Informatics | MSc Molecular Biology
 
-I am a biomedical research scientist with over 10 years of experience in laboratory-based biomedical and immunological research. I recently completed an MSc in Life Science Informatics, developing expertise in bioinformatics, transcriptomics, and computational analysis of biological data.
+I am a biomedical research scientist with over 10 years of experience in laboratory-based biomedical and immunological research. I recently completed an MSc in Life Science Informatics, where I developed expertise in bioinformatics, transcriptomics, and computational analysis of biological data.
 
 My work combines experimental immunology and computational biology, with a particular interest in computational immunology profiling, gene expression analysis, infectious disease research, and biomarker discovery.
 
@@ -21,9 +21,12 @@ My work combines experimental immunology and computational biology, with a parti
 **Programming:** R, Python, Linux, and Bash
 
 **R & Bioinformatics:** DESeq2, Seurat, Bioconductor, snakemake
+
+
 **Python and Scientific Computing:** NumPy, pandas, SciPy, Matplotlib, Seaborn
+
+
 **Statistical Analysis & Data Modelling:** Statistical modelling, exploratory data analysis, differential gene expression, PCA, clustering, dimensionality reduction and predictive modelling
-Statistical modelling, exploratory data analysis, differential gene expression, PCA, clustering, dimensionality reduction and predictive modelling
 
 **Data Visualisation:** ggplot2, ComplexHeatmap, UpSetR, Matplotlib, Seaborn
 
