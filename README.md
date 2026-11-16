@@ -35,7 +35,7 @@ My work combines experimental immunology and computational biology, with a parti
 
 **Data Visualisation:** ggplot2, ComplexHeatmap, UpSetR, Matplotlib and Seaborn
 
-**Laboratory Experience:** PBMC isolation and culture, flow cytometry, cell stimulation, immunological and molecular assays, biological sample processing and experimental design, troubleshooting and optimisation 
+**Laboratory Experience:** Laboratory management, LIMS, PBMC isolation and culture, flow cytometry, cell stimulation, immunological and molecular assays, biological sample processing and experimental design, troubleshooting and optimisation 
 
 ## Featured Research
 
