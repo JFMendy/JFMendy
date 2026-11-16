@@ -4,30 +4,30 @@
 
 MSc Life Science Informatics | MSc Molecular Biology
 
-I am a biomedical research scientist with over 10 years of experience in laboratory-based biomedical and immunological research. I recently completed an MSc in Life Science Informatics, developing expertise in bioinformatics, transcriptomics and computational analysis of biological data.
+I am a biomedical research scientist with over 10 years of experience in laboratory-based biomedical and immunological research. I recently completed an MSc in Life Science Informatics, developing expertise in bioinformatics, transcriptomics, and computational analysis of biological data.
 
-My work combines experimental immunology and computational biology, with a particular interest in immune-cell profiling, gene expression analysis, infectious disease research and biomarker discovery.
+My work combines experimental immunology and computational biology, with a particular interest in computational immunology profiling, gene expression analysis, infectious disease research, and biomarker discovery.
 
 ## Research Interests
 
 - Computational immunology
-- Bulk and single-cell RNA sequencing
-- Immune-cell characterisation and transcriptomics
+- Precision medicine and AI and Digital Health
 - Differential gene expression analysis
 - Biomarker discovery and infectious disease research
 - Integration of experimental and computational biology
 
 ## Technical Skills
 
-**Programming:** R
+**Programming:** R, Python, Linux, and Bash
 
-**Bioinformatics:** DESeq2, Seurat, Bioconductor
+**R & Bioinformatics:** DESeq2, Seurat, Bioconductor, snakemake
+**Python and Scientific Computing:** NumPy, pandas, SciPy, Matplotlib, Seaborn
+**Statistical Analysis & Data Modelling:** Statistical modelling, exploratory data analysis, differential gene expression, PCA, clustering, dimensionality reduction and predictive modelling
+Statistical modelling, exploratory data analysis, differential gene expression, PCA, clustering, dimensionality reduction and predictive modelling
 
-**Data Analysis:** Differential gene expression, PCA, UMAP, clustering and marker identification
+**Data Visualisation:** ggplot2, ComplexHeatmap, UpSetR, Matplotlib, Seaborn
 
-**Visualisation:** ggplot2, ComplexHeatmap, UpSetR
-
-**Laboratory Experience:** PBMC isolation and culture, flow cytometry, T-cell stimulation, immunological assays and biological sample processing
+**Laboratory Experience:** PBMC isolation and culture, flow cytometry, cell stimulation, immunological and molecular assays and biological sample processing
 
 ## Featured Research
 
