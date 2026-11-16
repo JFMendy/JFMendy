@@ -45,7 +45,7 @@ MSc research investigating nine peripheral blood immune-cell populations using b
 
 **Key methods:** R, DESeq2, Seurat, differential gene expression, dimensionality reduction and immune-cell marker analysis.
 
-[Explore my MSc research](https://github.com/JFMendy/celltype_transcriptomic)
+[Explore my MSc research](https://github.com/JFMendy/Celltype_transcriptomics)
 
 ## Education
 
