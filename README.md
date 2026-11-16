@@ -11,7 +11,6 @@ My work combines experimental immunology and computational biology, with a parti
 ## Research Interests
 
 - Computational immunology
-- Precision medicine and AI and Digital Health
 - Differential gene expression analysis
 - Biomarker discovery and infectious disease research
 - Integration of experimental and computational biology
@@ -20,18 +19,18 @@ My work combines experimental immunology and computational biology, with a parti
 
 **Programming:** R, Python, Linux, and Bash
 
-**Version Control & Reproducibility:** Git, GitHub, renv
+**Version Control & Reproducibility:** Git, GitHub and renv
 
-**R & Bioinformatics:** DESeq2, Seurat, Bioconductor, snakemake
+**R & Bioinformatics:** DESeq2, Seurat, Bioconductor and snakemake
 
 
-**Python and Scientific Computing:** NumPy, pandas, SciPy, Matplotlib, Seaborn
+**Python and Scientific Computing:** NumPy, pandas, SciPy, Matplotlib and Seaborn
 
 **Exploratory Data Analysis:** Data cleaning, quality assessment, descriptive statistics, data distribution analysis, correlation analysis, and outlier detection
 
 **Statistical Analysis & Modelling:** Regression analysis (logistic and linear regression), statistical inference, hypothesis testing, and differential gene expression analysis
 
-**Machine Learning:** Supervised learning (classification and logistic regression), unsupervised learning (clustering and dimensional reduction), and predictive modelling.
+**Machine Learning:** Supervised learning (classification), unsupervised learning (clustering and dimensional reduction), and predictive modelling.
 
 **Data Visualisation:** ggplot2, ComplexHeatmap, UpSetR, Matplotlib and Seaborn
 
