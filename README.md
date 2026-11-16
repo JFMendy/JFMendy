@@ -20,17 +20,22 @@ My work combines experimental immunology and computational biology, with a parti
 
 **Programming:** R, Python, Linux, and Bash
 
+**Version Control & Reproducibility:** Git, GitHub, renv
+
 **R & Bioinformatics:** DESeq2, Seurat, Bioconductor, snakemake
 
 
 **Python and Scientific Computing:** NumPy, pandas, SciPy, Matplotlib, Seaborn
 
+**Exploratory Data Analysis:** Data cleaning, quality assessment, descriptive statistics, data distribution analysis, correlation analysis, and outlier detection
 
-**Statistical Analysis & Data Modelling:** Statistical modelling, exploratory data analysis, differential gene expression, PCA, clustering, dimensionality reduction and predictive modelling
+**Statistical Analysis & Modelling:** Regression analysis (logistic and linear regression), statistical inference, hypothesis testing, and differential gene expression analysis
 
-**Data Visualisation:** ggplot2, ComplexHeatmap, UpSetR, Matplotlib, Seaborn
+**Machine Learning:** Supervised learning (classification and logistic regression), unsupervised learning (clustering and dimensional reduction), and predictive modelling.
 
-**Laboratory Experience:** PBMC isolation and culture, flow cytometry, cell stimulation, immunological and molecular assays and biological sample processing
+**Data Visualisation:** ggplot2, ComplexHeatmap, UpSetR, Matplotlib and Seaborn
+
+**Laboratory Experience:** PBMC isolation and culture, flow cytometry, cell stimulation, immunological and molecular assays, biological sample processing and experimental design, troubleshooting and optimisation 
 
 ## Featured Research
 
@@ -40,7 +45,7 @@ MSc research investigating nine peripheral blood immune-cell populations using b
 
 **Key methods:** R, DESeq2, Seurat, differential gene expression, dimensionality reduction and immune-cell marker analysis.
 
-[Explore my MSc research](https://github.com/JFMendy/MSc_thesis_analysis)
+[Explore my MSc research](https://github.com/JFMendy/celltype_transcriptomic)
 
 ## Education
 
